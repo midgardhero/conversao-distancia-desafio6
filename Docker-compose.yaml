@@ -1,0 +1,7 @@
+version: '3.9'
+
+services:
+  conversao-distancia:
+    image: midgardhero/conversao-distancia-desafio6
+    ports:
+      - 5000:5000
